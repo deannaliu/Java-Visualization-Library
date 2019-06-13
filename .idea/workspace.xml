@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/data-vilij/src/dataprocessors/TSDProcessor.java" line="100" />
+    <bookmark url="file://$PROJECT_DIR$/data-vilij/src/dataprocessors/TSDProcessor.java" line="237" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2600f57-2552-4531-a78c-a79c5e65126a" name="Default" comment="Original DataVilij">
+      <change afterPath="$PROJECT_DIR$/../homework4/data-vilij/resources/gui/icons/gear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework4/data-vilij/resources/gui/icons/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/cbex92.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dictionaries/cbex92.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/.idea/hw1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/.idea/hw1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/resources/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/resources/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/resources/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/resources/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/resources/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/resources/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/src/actions/AppActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/src/actions/AppActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/src/dataprocessors/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/src/dataprocessors/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/src/dataprocessors/TSDProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/src/dataprocessors/TSDProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/src/settings/AppPropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/src/settings/AppPropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/src/ui/AppUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/src/ui/AppUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/data-vilij/src/ui/DataVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/data-vilij/src/ui/DataVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/resources/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/resources/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/resources/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/resources/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/resources/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/resources/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/ActionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/ActionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/ConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/ConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/DataComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/DataComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/ErrorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/ErrorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/components/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/propertymanager/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/propertymanager/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/settings/InitializationParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/settings/InitializationParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/settings/PropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/settings/PropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/templates/ApplicationTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/templates/ApplicationTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/vilij/src/vilij/templates/UITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/vilij/src/vilij/templates/UITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2/xmlutil/src/xmlutil/XMLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2/xmlutil/src/xmlutil/XMLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/data-vilij.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/data-vilij.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/resources/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/resources/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/resources/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/resources/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/resources/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/resources/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/src/actions/AppActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/src/actions/AppActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/src/dataprocessors/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/src/dataprocessors/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/src/dataprocessors/TSDProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/src/dataprocessors/TSDProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/src/settings/AppPropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/src/settings/AppPropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/src/ui/AppUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/src/ui/AppUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/data-vilij/src/ui/DataVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/data-vilij/src/ui/DataVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/out/production/hw1/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/out/production/hw1/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/out/production/hw1/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/out/production/hw1/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/out/production/hw1/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/out/production/hw1/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/out/production/hw1/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/out/production/hw1/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/out/production/hw1/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/out/production/hw1/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/out/production/hw1/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/out/production/hw1/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/resources/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/resources/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/resources/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/resources/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/resources/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/resources/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/ActionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/ActionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/ConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/ConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/DataComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/DataComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/ErrorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/ErrorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/components/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/propertymanager/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/propertymanager/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/settings/InitializationParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/settings/InitializationParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/settings/PropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/settings/PropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/templates/ApplicationTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/templates/ApplicationTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/vilij/src/vilij/templates/UITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/vilij/src/vilij/templates/UITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework4/xmlutil/src/xmlutil/XMLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework4/xmlutil/src/xmlutil/XMLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/resources/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/resources/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/resources/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/resources/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/resources/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/resources/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/actions/AppActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/actions/AppActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/algorithms/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/algorithms/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/algorithms/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/algorithms/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/classification/RandomClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/classification/RandomClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/data/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/data/DataSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/dataprocessors/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/dataprocessors/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/dataprocessors/TSDProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/dataprocessors/TSDProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/settings/AppPropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/settings/AppPropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/ui/AppUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/ui/AppUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/data-vilij/src/ui/DataVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/data-vilij/src/ui/DataVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/actions/AppActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/actions/AppActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/settings/AppPropertyTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/settings/AppPropertyTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/out/production/hw1/ui/AppUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/out/production/hw1/ui/AppUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/resources/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/resources/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/resources/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/resources/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/resources/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/resources/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/ActionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/ActionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/ConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/ConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/DataComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/DataComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/ErrorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/ErrorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/components/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/propertymanager/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/propertymanager/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/settings/InitializationParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/settings/InitializationParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/settings/PropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/settings/PropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/templates/ApplicationTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/templates/ApplicationTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/src/vilij/templates/UITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/src/vilij/templates/UITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/vilij/vilij.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/vilij/vilij.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework5/xmlutil/src/xmlutil/XMLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework5/xmlutil/src/xmlutil/XMLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/resources/data/name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/resources/data/name.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/resources/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/resources/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/resources/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/resources/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/resources/properties/algorithms.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/resources/properties/algorithms.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/resources/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/resources/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/actions/AppActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/actions/AppActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/actions/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/actions/RunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/algorithms/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/algorithms/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/algorithms/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/algorithms/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/algorithms/Clusterer.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/algorithms/Clusterer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/classification/RandomClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/classification/RandomClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/clustering/KMeansClusterer.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/clustering/KMeansClusterer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/clustering/RandomClusterer.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/clustering/RandomClusterer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/data/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/data/DataSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/dataprocessors/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/dataprocessors/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/dataprocessors/TSDProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/dataprocessors/TSDProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/settings/AppPropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/settings/AppPropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/ui/AppUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/ui/AppUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/src/ui/DataVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/src/ui/DataVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/test/actions/AppActionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/test/actions/AppActionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/test/classification/RandomClassifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/test/classification/RandomClassifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/test/clustering/KMeansClustererTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/test/clustering/KMeansClustererTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/test/clustering/RandomClustererTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/test/clustering/RandomClustererTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-vilij/test/dataprocessors/AppDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-vilij/test/dataprocessors/AppDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/actions/AppActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/actions/AppActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hw1/ui/DataVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hw1/ui/DataVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/resources/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/resources/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/resources/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/resources/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/resources/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/resources/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/components/ActionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/components/ActionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/components/ConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/components/ConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/components/DataComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/components/DataComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/components/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/components/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/components/ErrorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/components/ErrorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/components/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/components/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/propertymanager/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/propertymanager/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/settings/InitializationParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/settings/InitializationParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/settings/PropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/settings/PropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/templates/ApplicationTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/templates/ApplicationTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vilij/src/vilij/templates/UITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/vilij/src/vilij/templates/UITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlutil/src/xmlutil/XMLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/xmlutil/src/xmlutil/XMLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/resources/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/resources/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/resources/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/resources/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/src/actions/AppActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/src/actions/AppActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/src/dataprocessors/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/src/dataprocessors/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/src/dataprocessors/TSDProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/src/dataprocessors/TSDProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/src/settings/AppPropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/src/settings/AppPropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/src/ui/AppUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/src/ui/AppUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/data-vilij/src/ui/DataVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/data-vilij/src/ui/DataVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/resources/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/resources/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/resources/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/resources/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/resources/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/resources/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/ActionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/ActionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/ConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/ConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/DataComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/DataComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/ErrorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/ErrorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/components/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/propertymanager/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/propertymanager/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/settings/InitializationParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/settings/InitializationParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/settings/PropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/settings/PropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/templates/ApplicationTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/templates/ApplicationTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/vilij/src/vilij/templates/UITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/vilij/src/vilij/templates/UITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/xmlutil/src/xmlutil/XMLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/xmlutil/src/xmlutil/XMLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/hw1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/hw1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/resources/data/sample-data.tsd" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/resources/data/sample-data.tsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/resources/gui/css/datavilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/resources/gui/css/datavilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/resources/properties/app-properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/resources/properties/app-properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/src/actions/AppActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/src/actions/AppActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/src/dataprocessors/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/src/dataprocessors/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/src/dataprocessors/TSDProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/src/dataprocessors/TSDProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/src/settings/AppPropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/src/settings/AppPropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/src/ui/AppUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/src/ui/AppUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/data-vilij/src/ui/DataVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/data-vilij/src/ui/DataVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/resources/gui/css/vilij.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/resources/gui/css/vilij.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/resources/properties/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/resources/properties/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/resources/properties/property-schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/resources/properties/property-schema.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/ActionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/ActionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/ConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/ConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/DataComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/DataComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/ErrorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/ErrorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/components/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/propertymanager/PropertyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/propertymanager/PropertyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/settings/InitializationParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/settings/InitializationParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/settings/PropertyTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/settings/PropertyTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/templates/ApplicationTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/templates/ApplicationTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/vilij/src/vilij/templates/UITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/vilij/src/vilij/templates/UITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/xmlutil/src/xmlutil/InvalidXMLFileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/xmlutil/src/xmlutil/XMLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/xmlutil/src/xmlutil/XMLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/sample/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/homework4$DataVisualizer.coverage" NAME="DataVisualizer Coverage Results" MODIFIED="1523599327537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/homework6$AppActionsTest_testSave.coverage" NAME="AppActionsTest.testSave Coverage Results" MODIFIED="1525661577764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>actions.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/homework5$DataVisualizer.coverage" NAME="DataVisualizer Coverage Results" MODIFIED="1524721413147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/homework6$DataVisualizer.coverage" NAME="DataVisualizer Coverage Results" MODIFIED="1525637571634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2145099877">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="java" value="27" />
+          <entry key="tsd" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JAVA" value="27" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="42" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/propertymanager/PropertyManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/ActionComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/ErrorDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/UIComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/ConfirmationDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/Dialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/DataComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/templates/UITemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/settings/InitializationParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vilij/src/vilij/settings/PropertyTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chart</find>
+      <find>split</find>
+      <find>handleexitrunE</find>
+      <find>clear</find>
+      <find>new Bu</find>
+      <find>kmeans</find>
+      <find>path</find>
+      <find>suspended</find>
+      <find>algorithm</find>
+      <find>DataSet dataset, int maxIterations, int updateInterval, AtomicBoolean cont, int numberOfClusters, AppData appData, AppUI appuiname</find>
+      <find>bufferedRead</find>
+      <find>appUi</find>
+      <find>handleSave</find>
+      <find>newAlert</find>
+      <find>saveThefile</find>
+      <find>saveTheFile</find>
+      <find>toCont</find>
+      <find>newAler</find>
+      <find>application</find>
+      <find>textArea</find>
+      <find>doneE</find>
+      <find>verify</find>
+      <find>checkName</find>
+      <find>check</find>
+      <find>setSel</find>
+      <find>start</find>
+      <find>leftp</find>
+      <find>app</find>
+      <find>apppan</find>
+      <find>apppane</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data-vilij/resources/gui/css/datavilij.css" />
+        <option value="$PROJECT_DIR$/data-vilij/src/actions/RunnableDemo.java" />
+        <option value="$PROJECT_DIR$/data-vilij/resources/properties/algorithms.fxml" />
+        <option value="$PROJECT_DIR$/data-vilij/resources/properties/algorithms.xml" />
+        <option value="$PROJECT_DIR$/data-vilij/src/settings/AppPropertyTypes.java" />
+        <option value="$PROJECT_DIR$/data-vilij/resources/properties/app-properties.xml" />
+        <option value="$PROJECT_DIR$/data-vilij/resources/data/name.txt" />
+        <option value="$PROJECT_DIR$/data-vilij/test/clustering/KMeansClustererTest.groovy" />
+        <option value="$PROJECT_DIR$/data-vilij/test/actions/AppActionsTest.java" />
+        <option value="$PROJECT_DIR$/data-vilij/test/dataprocessors/AppDataTest.java" />
+        <option value="$PROJECT_DIR$/data-vilij/test/clustering/KMeansClustererTest.java" />
+        <option value="$PROJECT_DIR$/data-vilij/test/clustering/RandomClustererTest.java" />
+        <option value="$PROJECT_DIR$/data-vilij/test/classification/RandomClassifierTest.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/propertymanager/PropertyManager.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/ui/AppUI.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/dataprocessors/TSDProcessor.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/actions/AppActions.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/dataprocessors/AppData.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/algorithms/Algorithm.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/algorithms/Classifier.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/algorithms/Clusterer.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/classification/RandomClassifier.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/clustering/KMeansClusterer.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/clustering/RandomClusterer.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/data/DataSet.java" />
+        <option value="$PROJECT_DIR$/data-vilij/src/ui/DataVisualizer.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/templates/UITemplate.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/templates/ApplicationTemplate.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/settings/InitializationParams.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/settings/PropertyTypes.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/components/ActionComponent.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/components/ConfirmationDialog.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/components/Dialog.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/components/DataComponent.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/components/ErrorDialog.java" />
+        <option value="$PROJECT_DIR$/vilij/src/vilij/components/UIComponent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clustering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dataprocessors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="clustering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="data-vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dataprocessors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework6" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vilij" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/cbex9/Desktop/School/Sophmore - Semester 2/CSE 219/medliu/homework6/data-vilij/src/classification/RandomClassifier.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560394466565" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dataprocessors" />
+      <recent name="clustering" />
+      <recent name="classification" />
+      <recent name="actions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cbex9\Desktop\School\Sophmore - Semester 2\CSE 219\medliu\homework6\data-vilij\resources\data" />
+      <recent name="C:\Users\cbex9\Desktop\School\Sophmore - Semester 2\CSE 219\medliu\homework2\vilij\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="algorithms.Clusterer" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cbex9\Desktop\School\Sophmore - Semester 2\CSE 219\medliu\homework6\data-vilij\resources\properties" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DataVisualizer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.DataVisualizer" />
+      <module name="hw1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataprocessors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataprocessors" />
+      <option name="MAIN_CLASS_NAME" value="dataprocessors.AppDataTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classification" />
+      <option name="MAIN_CLASS_NAME" value="classification.RandomClassifierTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomClustererTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clustering" />
+      <option name="MAIN_CLASS_NAME" value="clustering.RandomClustererTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomClustererTest.testRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clustering" />
+      <option name="MAIN_CLASS_NAME" value="clustering.RandomClustererTest" />
+      <option name="METHOD_NAME" value="testRun" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AppDataTest" />
+      <item itemvalue="JUnit.RandomClustererTest.testRun" />
+      <item itemvalue="JUnit.RandomClustererTest" />
+      <item itemvalue="JUnit.RandomClassifierTest" />
+      <item itemvalue="Application.DataVisualizer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataVisualizer" />
+        <item itemvalue="JUnit.AppDataTest" />
+        <item itemvalue="JUnit.RandomClassifierTest" />
+        <item itemvalue="JUnit.RandomClustererTest" />
+        <item itemvalue="JUnit.RandomClustererTest.testRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\cbex9\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2600f57-2552-4531-a78c-a79c5e65126a" name="Default" comment="" />
+      <created>1520202244221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520202244221</updated>
+      <workItem from="1560394166343" duration="17000" />
+      <workItem from="1560394197033" duration="230000" />
+    </task>
+    <task id="LOCAL-00001" summary="homework 2 fix print">
+      <created>1520202726325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520202726325</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix hARDCOded strings">
+      <created>1520222286449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520222286449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Original DataVilij">
+      <created>1523222092081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523222092081</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed Use case 1-2 &#10;On process of use case 3">
+      <created>1523336997040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523336997040</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished use case 1-7">
+      <created>1523624850058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523624850058</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed errors from homework #4&#10;[inputting negative number]">
+      <created>1524713606350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524713606350</updated>
+    </task>
+    <task id="LOCAL-00007" summary="began the run request dataset making and the showing of the run button">
+      <created>1524723223160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524723223160</updated>
+    </task>
+    <task id="LOCAL-00008" summary="USE CASE 8 ALMOST DONE&#10;-fix it only works when you click the word and not the gear">
+      <created>1524740567716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524740567717</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ICON!">
+      <created>1524740586641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1524740586641</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Need to fix hardcoded strings and check rubric">
+      <created>1524788738425</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1524788738425</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed hardcoded strings and gear bug">
+      <created>1524852410022</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1524852410022</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new folder">
+      <created>1525384195005</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1525384195005</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new folder">
+      <created>1525384288189</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1525384288189</updated>
+    </task>
+    <task id="LOCAL-00014" summary="missing line when downloaded">
+      <created>1525384358420</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1525384358420</updated>
+    </task>
+    <task id="LOCAL-00015" summary="clustering algorithm&#10;testing going to wrong folders?">
+      <created>1525384577378</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1525384577378</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add file">
+      <created>1525413992452</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1525413992452</updated>
+    </task>
+    <task id="LOCAL-00017" summary="randomcluster done">
+      <created>1525429520940</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1525429520940</updated>
+    </task>
+    <task id="LOCAL-00018" summary="need to unit test">
+      <created>1525658983057</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1525658983058</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test">
+      <created>1525663296591</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1525663296591</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test">
+      <created>1525663617712</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1525663617712</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test">
+      <created>1525664733013</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1525664733013</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test">
+      <created>1525665267003</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1525665267003</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppDataTest - 2018.05.06 at 23h 31m 27s.xml">
+      <configuration name="AppDataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppDataTest - 2018.05.06 at 23h 31m 39s.xml">
+      <configuration name="AppDataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppDataTest - 2018.05.06 at 23h 38m 45s.xml">
+      <configuration name="AppDataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppDataTest_testSave - 2018.05.06 at 23h 31m 17s.xml">
+      <configuration name="AppDataTest.testSave" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KMeansClustererTest - 2018.05.06 at 23h 27m 15s.xml">
+      <configuration name="KMeansClustererTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomClassifierTest - 2018.05.06 at 23h 38m 23s.xml">
+      <configuration name="RandomClassifierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomClustererTest - 2018.05.06 at 23h 35m 36s.xml">
+      <configuration name="RandomClustererTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomClustererTest - 2018.05.06 at 23h 38m 12s.xml">
+      <configuration name="RandomClustererTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomClustererTest_testRun - 2018.05.06 at 23h 35m 06s.xml">
+      <configuration name="RandomClustererTest.testRun" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomClustererTest_testRun - 2018.05.06 at 23h 37m 44s.xml">
+      <configuration name="RandomClustererTest.testRun" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="247000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="820" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50416666" side_tool="true" weight="0.32912844" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49583334" weight="0.32912844" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Module Dependencies" order="0" weight="0.3296875" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 2 fix print" />
+    <MESSAGE value="fix hARDCOded strings" />
+    <MESSAGE value="Completed Use case 1-2 &#10;On process of use case 3" />
+    <MESSAGE value="Finished use case 1-7" />
+    <MESSAGE value="Fixed errors from homework #4&#10;[inputting negative number]" />
+    <MESSAGE value="began the run request dataset making and the showing of the run button" />
+    <MESSAGE value="USE CASE 8 ALMOST DONE&#10;-fix it only works when you click the word and not the gear" />
+    <MESSAGE value="ICON!" />
+    <MESSAGE value="Need to fix hardcoded strings and check rubric" />
+    <MESSAGE value="Original DataVilij" />
+    <MESSAGE value="Fixed hardcoded strings and gear bug" />
+    <MESSAGE value="new folder" />
+    <MESSAGE value="missing line when downloaded" />
+    <MESSAGE value="clustering algorithm&#10;testing going to wrong folders?" />
+    <MESSAGE value="add file" />
+    <MESSAGE value="randomcluster done" />
+    <MESSAGE value="need to unit test" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data-vilij/src/classification/RandomClassifier.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data-vilij/src/clustering/KMeansClusterer.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data-vilij/src/clustering/KMeansClusterer.java</url>
+          <line>173</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data-vilij/src/ui/AppUI.java</url>
+          <line>272</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>appui.appActions.configurations</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>appui.appActions.configuration</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>appui.getChart().getData()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>appData.processor.names</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) appData.processor.alteredDataLabels).values</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>appData.processor.alteredDataLabels</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>appData.processor.alteredData</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/collections/ModifiableObservableListBase.java" />
+    <entry file="file://$PROJECT_DIR$/vilij/resources/properties/properties.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/settings/AppPropertyTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/resources/properties/app-properties.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$USER_HOME$/body_temp.tsd" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/geometry/Point2D.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/scene/chart/XYChart.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/scene/Node.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/scene/control/Button.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/scene/Scene.java" />
+    <entry file="file://$PROJECT_DIR$/data-vilij/test/clustering/KMeansClustererTest.groovy" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/application/Platform.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/stage/Window.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/stage/Stage.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/test/actions/AppActionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/javafx-src.zip!/javafx/event/Event.java" />
+    <entry file="file://$PROJECT_DIR$/data-vilij/test/clustering/KMeansClustererTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/actions/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/resources/data/name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/resources/data/sample-data.tsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/resources/gui/css/datavilij.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/actions/AppActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/algorithms/Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/algorithms/Classifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/algorithms/Clusterer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/classification/RandomClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/clustering/KMeansClusterer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#2073#2074#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/clustering/RandomClusterer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/data/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/dataprocessors/AppData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/dataprocessors/TSDProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/ui/DataVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/src/ui/AppUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/test/clustering/RandomClustererTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/test/dataprocessors/AppDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-vilij/test/classification/RandomClassifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/templates/ApplicationTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/templates/UITemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/settings/InitializationParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/settings/PropertyTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/propertymanager/PropertyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/ActionComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/ConfirmationDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/Dialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/DataComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/ErrorDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vilij/src/vilij/components/UIComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hw1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
